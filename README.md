@@ -58,14 +58,15 @@ Expected output : File
 
 Solution:
 ========
-*trigram application having a class called TrigramGenerator.java is responsible to read a input file, generate all possible trigrams and write newly generated swash-buckling scientific adventure data in a file with the help of another model class trigram.java.
+trigram application having a class called TrigramGenerator.java is responsible to read a input file, generate all possible trigrams and write newly generated swash-buckling scientific adventure data in a file with the help of another model class trigram.java.
 
 
 Unit test cases are executed and validated with :
 ===============================================
 
-Input files: tom_swift_under_the_milkwood.txt
-Output files: tom_swift_under_the_milkwood_new_version.txt
+Input files: tom_swift_under_the_milkwood.txt, iwish.txt
+
+Output files: tom_swift_under_the_milkwood_new_version.txt , iwish_new_version.txt
 
 Risks:
 =====
